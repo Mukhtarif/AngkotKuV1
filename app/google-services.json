@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000073482618",
+    "firebase_url": "https://angkottracking-d0542.firebaseio.com",
+    "project_id": "angkottracking-d0542",
+    "storage_bucket": "angkottracking-d0542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000073482618:android:930459179f42d569",
+        "android_client_info": {
+          "package_name": "letme.mukhtarif.angkotkuv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000073482618-5oabbhs58ogo80ub1i4m7hq1tmo8p92p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "letme.mukhtarif.angkotkuv1",
+            "certificate_hash": "102a0c1233f08ea60ae8216e5a0b19953807a824"
+          }
+        },
+        {
+          "client_id": "1000073482618-728f88stjchj27eg3gdaalk9ai5ii1i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6IzJLEDHr2eJmZEONn4jeuJyYa3pPn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000073482618-728f88stjchj27eg3gdaalk9ai5ii1i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
